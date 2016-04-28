@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rosacearummonog02tratgoog_0151.png"; bbox 0 0 2759 4159; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 557 4061 604 4081">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 557 4061 604 4081">
+     <span class='ocr_line' id='line_1_1' title="bbox 557 4061 604 4081; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 557 4071 560 4078; x_wconf 74' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 569 4061 604 4081; x_wconf 66' lang='lat' dir='ltr'>&#39;r&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 396 4079 1029 4104">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 396 4079 1029 4104">
+     <span class='ocr_line' id='line_1_2' title="bbox 396 4079 1029 4104; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 396 4093 420 4103; x_wconf 83' lang='grc' dir='ltr'>.ι..</span> <span class='ocrx_word' id='word_1_4' title='bbox 447 4081 638 4104; x_wconf 52' lang='lat' dir='ltr'>„-4Ma..</span> <span class='ocrx_word' id='word_1_5' title='bbox 652 4092 744 4104; x_wconf 60' lang='lat' dir='ltr'>-n-...nnu</span> <span class='ocrx_word' id='word_1_6' title='bbox 766 4079 782 4103; x_wconf 60' lang='grc' dir='ltr'>ἶ.-</span> <span class='ocrx_word' id='word_1_7' title='bbox 803 4100 822 4103; x_wconf 25' lang='lat' dir='ltr'>A,</span> <span class='ocrx_word' id='word_1_8' title='bbox 843 4083 974 4104; x_wconf 43' lang='grc' dir='ltr'>ΔΒΗ,-</span> <span class='ocrx_word' id='word_1_9' title='bbox 1013 4086 1029 4103; x_wconf 79' lang='grc' dir='ltr'>,Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1384 4159">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1384 4159">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1384 4159; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1384 4159; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
